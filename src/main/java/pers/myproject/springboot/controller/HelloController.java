@@ -30,7 +30,7 @@ public class HelloController {
 
     @RequestMapping({"/","/index"})
     public String index(){
-        String msg = "test";
+        String msg = "t22222est";
         return "login";
     }
 }
